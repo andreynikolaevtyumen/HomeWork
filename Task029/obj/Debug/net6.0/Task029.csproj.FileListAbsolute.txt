@@ -1,0 +1,15 @@
+/Users/mak/Desktop/HomeWork/Task029/bin/Debug/net6.0/Task029
+/Users/mak/Desktop/HomeWork/Task029/bin/Debug/net6.0/Task029.deps.json
+/Users/mak/Desktop/HomeWork/Task029/bin/Debug/net6.0/Task029.runtimeconfig.json
+/Users/mak/Desktop/HomeWork/Task029/bin/Debug/net6.0/Task029.dll
+/Users/mak/Desktop/HomeWork/Task029/bin/Debug/net6.0/Task029.pdb
+/Users/mak/Desktop/HomeWork/Task029/obj/Debug/net6.0/Task029.csproj.AssemblyReference.cache
+/Users/mak/Desktop/HomeWork/Task029/obj/Debug/net6.0/Task029.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Desktop/HomeWork/Task029/obj/Debug/net6.0/Task029.AssemblyInfoInputs.cache
+/Users/mak/Desktop/HomeWork/Task029/obj/Debug/net6.0/Task029.AssemblyInfo.cs
+/Users/mak/Desktop/HomeWork/Task029/obj/Debug/net6.0/Task029.csproj.CoreCompileInputs.cache
+/Users/mak/Desktop/HomeWork/Task029/obj/Debug/net6.0/Task029.dll
+/Users/mak/Desktop/HomeWork/Task029/obj/Debug/net6.0/refint/Task029.dll
+/Users/mak/Desktop/HomeWork/Task029/obj/Debug/net6.0/Task029.pdb
+/Users/mak/Desktop/HomeWork/Task029/obj/Debug/net6.0/Task029.genruntimeconfig.cache
+/Users/mak/Desktop/HomeWork/Task029/obj/Debug/net6.0/ref/Task029.dll
